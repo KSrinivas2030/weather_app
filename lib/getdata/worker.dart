@@ -52,9 +52,9 @@ class Worker {
     }catch(e)
     {
       print(e);
-      temp = "error";
-      humidity = "Error ";
-      air_speed = "Error ";
+      temp = "error123";
+      humidity = "Error";
+      air_speed = "Error";
       main = "Error ";
       icon="03n";
 
